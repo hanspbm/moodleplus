@@ -1,0 +1,18 @@
+CACHE MANIFEST
+js/lib/jquery.min.js
+js/lib/underscore-min.js
+js/lib/backbone-min.js
+js/lib/bootstrap.min.js
+js/lib/handlebars.js
+js/lib/backbone.localStorage-min.js
+js/models/coursesmodel.js
+js/collections/coursescollection.js
+js/views/coursesview.js
+js/models/studentmodel.js
+js/views/studentview.js
+js/main.js
+css/bootstrap.min.css
+css/bootstrap-responsive.min.css
+img/RulerPlaceholder.png
+img/home.png
+img/defaultProfilePicture.png
